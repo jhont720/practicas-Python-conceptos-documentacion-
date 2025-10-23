@@ -1,0 +1,15 @@
+nombre = "jhon" 
+edad = 18
+es_estudiante = True
+altura = 1.68
+print (nombre)
+print(edad)
+print(altura)
+
+Muy con respecto a los conceptos que tengo sobre el primero: nombre = "jhon" es basicamente un tipo de dato string que es string? basicamente es texto o un conjunto de caracteres
+o eso tengo entendido.
+edad = 18: algo pareceido pero esta ves el tipo de dato es numerico mas especificamente un entero ya que hay meciono el numero 18.
+es_estudiante = True:  bueno aca basicamente creamos la variable que se ve  = es el operador que usamos por lo genral para asignar el valor ala varible y el true seria
+un tipo de dato booleano en esta caso una afiramcion "true" dato el caso de ser "false"seria Negacion
+en cuanto a los print no me tomare la molestia de explicarlo de forma explicita basicamente imprimen algo jaja 
+bien esto serai la primera la parte carece de orden esto y dsiculpen la ortografia
