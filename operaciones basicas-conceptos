@@ -1,0 +1,16 @@
+a=10
+b=2
+suma=a+b
+print(suma)
+resta=a-b
+print(resta)
+division=a/b
+print(division)
+multiplicacion=a*b
+print(multiplicacion)
+muy bien los conceptos: en cada caso vemos una variable con su respectivo nombre que hace referencia a un operacion matematica no hace falta mucah explicacion para este punto
+creo que no hace falta explicar los conceptos son basicamente operaciones matematicas basicas que tienen una variable que ahce referencia a esa operacion
+creo que los conceptos son muy basicos 
+
+
+
