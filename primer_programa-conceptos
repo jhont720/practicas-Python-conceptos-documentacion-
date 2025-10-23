@@ -1,1 +1,33 @@
+print(" hola bienvenido ")
+nombre =input("ingresa tu nombre por favor:")
+edad = input("ingresa tu edad por favor:")
+print(f"hola {nombre} tienes {edad} años")
+
+bueno es basicamento aldo que se me ocurrio tenemos la variable nombre: en este punto basicamente lo que llego a entender es que el input pide un dato de entrada en este caso el nombre 
+y ese dato lo guarda en la varaible nombre.
+edad: creo que aca no tengo mucho que explicar basicamente lo mismo pero aca pide otro dato que serai la edad
+ahora el print: en el print basicmente imprime algo no, en este caso use la f string que esta dentro del print para poner las variables de froma mas legible auqnue pude usar 
+la "," adjunte las variable en orden para que el texto muestre los valores de las variables valores que ingresa quien interactua con el programa.
+
+y ahora si el verdaro programa jajaa
+
+print("bienvenido a mi primera cacluladora")
+num1 = float(input("ingrese el primer numero:"))
+num2 = float(input("ingrese el segundo numero:"))
+suma = num1 + num2
+resta= num1- num2
+multiplicacion= num1*num2
+division= num1/num2
+print (f"la suma total es: {suma}")
+print (f"la resta total es:{resta}")
+print (f"la multiplcicion es:{multiplicacion}")
+print (f"la division es :{division}")
+
+bien aca lo que vemos es mi primer programa interactivo
+bien aca queria aclarar algo estaba haciendo las cosas con copilot si estas empesando como yo no es recomendable el copilot ya que este puede generar dependecia la idea es resolver problemas 
+pensar sin lucha no hay aprendizaje :) no hay problema en mi caso todo el codigo ya lo entiendo digamos que ya vi algo anteriormente  
+bien  en las primeras varaibles"num1 y num2 " basicamente en float el tipo de dato sera decimal osea  el numero ingresado podra ser decimal o entero en un int solo seria entero
+aunque me resulta algo molesto el ".0" en uno decimal.
+despues tenemos la variable suma y resta etc.. bueno el caso es que a esas variables se les asigna el valor segun la operacion correspondiente ala misma con los numero ingresados
+y en los print bascimante imprime los valores de las variable con los numeros ingresados.
 
